@@ -1,4 +1,4 @@
-package br.valerio.quarkus.microservices.number;
+package br.valerio.quarkus.microservices.book;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
